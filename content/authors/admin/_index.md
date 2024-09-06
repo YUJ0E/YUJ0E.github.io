@@ -9,10 +9,6 @@ title: YU Zhuoyuan
 first_name: Zhouyuan
 last_name: YU
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
