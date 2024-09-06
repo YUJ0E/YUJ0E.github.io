@@ -20,13 +20,13 @@ role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: NUS
+  - name: National University of Singapore
     url: https://nus.edu.sg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: "custom/envelope"
     url: 'yuzhuoyuan@u.nus.edu'
     label: E-mail Me
   - icon: brands/github
