@@ -27,7 +27,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: "custom/envelope"
-    url: yuzhuoyuan@u.nus.edu
+    url: 'yuzhuoyuan@u.nus.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/YUJ0E
@@ -74,30 +74,30 @@ skills:
         description: ''
         percent: 80
         icon: "custom/python"
-      - name: Data Science
+      - name: ROS1
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 50
+        icon: "custom/robot"
+      - name: Solidworks
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: "custom/design"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travel
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: "custom/travel"
+      - name: Game
         description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: "custom/game"
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        percent: 50
+        icon: "custom/camera"
 
 languages:
   - name: Chinese
