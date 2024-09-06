@@ -39,6 +39,7 @@ interests:
   - Robotics
   - Deep Reinforcement Learning
   - Multi-Agent System
+  - Unmanned Aerial Vehicle
 
 education:
   - area: MEng Mechanical Engineering
@@ -113,4 +114,4 @@ languages:
 
 ## About Me
 
-I am currently pursuing a Master's degree (by Research) in Mechanical Engineering at the National University of Singapore, with a strong focus on Robotics, Multi-Agent Systems, and Deep Reinforcement Learning. My research is dedicated to pushing the boundaries of these fields, and I am actively seeking PhD opportunities to further expand my work！😊
+I am currently pursuing a Master's degree (by Research) in Mechanical Engineering at the National University of Singapore, with a strong focus on Robotics, Multi-Agent Systems, and Deep Reinforcement Learning. I am passionate about broadening my horizons, both academically and culturally, and I am actively seeking PhD opportunities that will not only further expand my work but also allow me to explore different parts of the world, engage with diverse perspectives, and collaborate with global experts.😊
