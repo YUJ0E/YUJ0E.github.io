@@ -47,8 +47,8 @@ interests:
 education:
   - area: MEng Mechanical Engineering
     institution: National University of Singapore
-    date_start: 2023-8-1
-    date_end: Present
+    date_start: 2023-08-01
+    date_end: 2025-05-01
     summary: |
       GPA: 5.0/5.0
 
@@ -58,8 +58,8 @@ education:
       - Autonomous Mobile Robotics
   - area: BEng Aircraft Design and Engineering
     institution: Northwestern Polytechnical University
-    date_start: 2019-8-1
-    date_end: 2023-7-1
+    date_start: 2019-08-01
+    date_end: 2023-07-01
     summary: |
       GPA: 84/100
       
