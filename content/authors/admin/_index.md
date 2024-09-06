@@ -27,7 +27,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: "custom/envelope"
-    url: 'yuzhuoyuan@u.nus.edu'
+    url: yuzhuoyuan@u.nus.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/YUJ0E
@@ -73,7 +73,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: "custom/python"
       - name: Data Science
         description: ''
         percent: 100
@@ -105,10 +105,7 @@ languages:
   - name: English
     percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 
 ---
 
