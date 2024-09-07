@@ -1,13 +1,11 @@
 ---
 title: Autonomous Mobile Robotics
-date: 2023-10-26
+date: 2024-4-1
 external_link: https://github.com/YUJ0E/Autonomous_Mobile_Robotics_Navigation
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - ROS1
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Some foundational work in SLAM and computer vision.
 
 <!--more-->
