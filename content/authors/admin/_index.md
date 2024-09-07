@@ -86,10 +86,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Travel
+      - name: Flute
         description: ''
         percent: 60
-        icon: "custom/travel"
+        icon: "custom/flute"
       - name: Game
         description: ''
         percent: 90
