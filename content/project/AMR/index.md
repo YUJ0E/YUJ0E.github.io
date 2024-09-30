@@ -1,6 +1,6 @@
 ---
 title: Autonomous Mobile Robotics
-date: 2024-4-1
+date: 2024-04-01
 external_link: https://github.com/YUJ0E/Autonomous_Mobile_Robotics_Navigation
 tags:
   - ROS1
