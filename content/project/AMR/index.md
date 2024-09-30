@@ -6,6 +6,5 @@ tags:
   - ROS1
 ---
 
-Some foundational work in SLAM and computer vision.
-
+Navigate the mobile robot to a designated position within the constructed environment, and integrate machine vision to enable the robot to identify and move towards a box with a specific number.
 <!--more-->

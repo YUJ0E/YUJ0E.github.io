@@ -6,6 +6,6 @@ tags:
   - ROS1
 ---
 
-Some foundational work in SLAM and computer vision.
+Apply existing SLAM methods for mapping.
 
 <!--more-->

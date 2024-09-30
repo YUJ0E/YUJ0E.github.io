@@ -7,6 +7,6 @@ tags:
   - Python
 ---
 
-Some foundational work in SLAM and computer vision.
+Identify and track a given target, while predicting its acceleration and velocity.
 
 <!--more-->
