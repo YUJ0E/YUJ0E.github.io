@@ -27,7 +27,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: "custom/envelope"
-    url: 'yuzhuoyuan@u.nus.edu'
+    url: 'mailto:yuzhuoyuan@u.nus.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/YUJ0E
