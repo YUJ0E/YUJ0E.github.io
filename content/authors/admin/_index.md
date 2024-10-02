@@ -111,4 +111,4 @@ languages:
 
 ## About Me
 
-I am currently pursuing a Master's degree (by Research) in Mechanical Engineering at the National University of Singapore, with a strong focus on Robotics, Multi-Agent Systems, and Deep Reinforcement Learning. I am passionate about broadening my horizons, both academically and culturally and actively seeking PhD opportunities.😊
+I am currently pursuing a Master's degree (by Research) in Mechanical Engineering at National University of Singapore, with a strong focus on Robotics, Multi-Agent Systems, and Deep Reinforcement Learning. I am passionate about broadening my horizons, both academically and culturally and actively seeking PhD opportunities.😊
