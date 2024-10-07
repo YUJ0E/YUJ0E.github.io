@@ -1,5 +1,5 @@
 ---
-title: Autonomous Mobile Robotics
+title: Navigation
 date: 2024-04-01
 external_link: https://github.com/YUJ0E/Autonomous_Mobile_Robotics_Navigation
 tags:
