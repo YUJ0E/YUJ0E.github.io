@@ -6,8 +6,8 @@ title: 余卓远
 name_pronunciation: YU ZHUO YUAN
 
 # Full name (for SEO)
-first_name: 卓远
-last_name: 余
+first_name: Zhuoyuan
+last_name: Yu
 
 # Is this the primary user of the site?
 superuser: true
