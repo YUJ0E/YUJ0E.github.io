@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YU Zhuoyuan
+title: 余卓远
 
 # Name pronunciation (optional)
 name_pronunciation: YU ZHUO YUAN
