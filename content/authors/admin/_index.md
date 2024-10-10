@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 余卓远
+title: Yu Zhuoyuan
 
 # Name pronunciation (optional)
-name_pronunciation: YU ZHUO YUAN
+# name_pronunciation: YU ZHUO YUAN
 
 # Full name (for SEO)
-first_name: Zhuoyuan
-last_name: Yu
+first_name: 卓远
+last_name: 余
 
 # Is this the primary user of the site?
 superuser: true
