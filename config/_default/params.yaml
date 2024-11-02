@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Joe's Website"
+      text: "Joey's Website"
 
 # Site footer
 footer:
