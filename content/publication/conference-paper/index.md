@@ -25,7 +25,7 @@ publication_types: ['paper-journal']
 abstract: Muti-Robot Navigation.
 
 # Summary. An optional shortened abstract.
-# summary: Muti-Robot Navigation.
+summary: Muti-Robot Navigation.
 
 tags:
   - Multi-Agent System
