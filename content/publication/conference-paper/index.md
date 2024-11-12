@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks'
+title: 'MARVEL'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
