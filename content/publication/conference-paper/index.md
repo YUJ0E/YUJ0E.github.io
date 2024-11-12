@@ -7,7 +7,7 @@ title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments wi
 authors:
   - admin
 
-date: '2024-09-07T00:00:00Z'
+date: '2024-11-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -16,20 +16,20 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-journal']
+publication_types: ['Journal Paper']
 
 # Publication name and optional abbreviated publication name.
 # publication: 
 # publication_short: In *ICW*
 
-abstract: Muti-Robot Navigation.
+abstract: Muti-Robot Routing in Variable Environments with Learning.
 
 # Summary. An optional shortened abstract.
-summary: Muti-Robot Navigation.
+summary: MARVEL.
 
 tags:
   - Multi-Agent System
-  - Robotics
+  - Deep Reinforcement Learning
   - Graph Neural Networks
 
 # Display this page in the Featured widget?
