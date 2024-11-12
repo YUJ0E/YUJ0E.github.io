@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks'
+title: 'I am currently working on it!'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,7 @@ title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments wi
 authors:
   - admin
 
-date: '2024-11-22T00:00:00Z'
+date: '2024-09-07T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,8 +37,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Github Link
-#   url: https://github.com/YUJ0E/MARVEL
+# - name: Custom Link
+#   url: http://example.org
 
 # url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
