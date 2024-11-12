@@ -36,7 +36,7 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Github Link
   url: https://github.com/YUJ0E/MARVEL
 
