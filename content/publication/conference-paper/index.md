@@ -1,5 +1,5 @@
 ---
-title: 'MARVEL'
+title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -36,9 +36,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Github Link
-  url: https://github.com/YUJ0E/MARVEL
+# links:
+# - name: Github Link
+#   url: https://github.com/YUJ0E/MARVEL
 
 # url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
