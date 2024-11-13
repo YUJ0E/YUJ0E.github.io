@@ -7,7 +7,7 @@ title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments wi
 authors:
   - admin
 
-date: '2024-09-07T00:00:00Z'
+date: '2024-11-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ['Journal Paper']
 abstract: Muti-Robot Routing in Variable Environments with Learning.
 
 # Summary. An optional shortened abstract.
-summary: MARVEL.
+summary: To be submitted.
 
 tags:
   - Multi-Agent System
@@ -41,7 +41,7 @@ featured: true
 #   url: http://example.org
 
 # url_pdf: ''
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/YUJ0E/MARVEL'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
