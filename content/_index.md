@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         <div style="text-align: justify;">
-        During my undergraduate studies, I focused primarily on aircraft design, gaining knowledge in areas such as aerodynamics and structural mechanics. However, while working on a quadcopter UAV project, I realized that I enjoyed the process of making the drone fly according to my ideas more than the design aspect itself. This insight led me to shift my focus during my Master's studies toward control systems and path planning, where I found a deep interest. This passion for control and autonomous navigation has motivated me to pursue a PhD to further advance my learning and research in these areas. Thanks for your interest in my background. I hope we have the opportunity to collaborate in the future 😊.
+        During my undergraduate studies, I focused primarily on aircraft design, gaining knowledge in areas such as aerodynamics and structural mechanics. However, while working on a UAV project, I realized that I enjoyed the process of making the drone fly according to my ideas more than the design aspect itself. This insight led me to shift my focus during my Master's studies toward control systems and path planning, where I found a deep interest. This passion for control and autonomous navigation has motivated me to pursue a PhD to further advance my learning and research in these areas. Thanks for your interest in my background. I hope we have the opportunity to collaborate in the future 😊.
         </div>
     design:
       columns: '1'
