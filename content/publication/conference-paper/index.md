@@ -6,8 +6,9 @@ title: 'Multi-Robot Reliable Navigation in Uncertain Topological Environments wi
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Hongliang Guo
 
-date: '2024-11-11T00:00:00Z'
+date: '2024-11-23T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +23,10 @@ publication_types: ['Journal Paper']
 # publication: 
 # publication_short: In *ICW*
 
-abstract: Muti-Robot Routing in Variable Environments with Learning.
+abstract: This paper studies the multi-robot reliable navigation problem in uncertain topological networks, which aims at maximizing the robot team's on-time arrival probabilities in the face of road network uncertainties. The uncertainty in these networks stems from the unknown edge traversability, which is only revealed to the robot upon its arrival at the edge's starting node. Existing approaches often struggle to adapt to real-time network topology changes, making them unsuitable for varying topological environments. To address the challenge, we reformulate the problem into a Partially Observable Markov Decision Process (POMDP) framework and introduce the Dynamic Adaptive Graph Embedding method to capture the evolving nature of the navigation task. We further enhance each robot's policy learning process by integrating deep reinforcement learning with Graph Attention Networks (GATs), leveraging self-attention to focus on critical graph features. The proposed approach, namely Multi-Agent Routing in Variable Environments with Learning (MARVEL) employs the generalized policy gradient algorithm to optimize the robots' real-time decision-making process iteratively. We compare the performance of MARVEL with state-of-the-art reliable navigation algorithms as well as Canadian traveller problem solutions in a range of canonical transportation networks, demonstrating improved adaptability and performance in uncertain topological networks. Additionally, real-world experiments with two robots navigating within a self-constructed indoor environment with uncertain topological structures demonstrate MARVEL's practicality.
 
 # Summary. An optional shortened abstract.
-summary: To be submitted.
+summary: Under Review.
 
 tags:
   - Multi-Agent System
@@ -40,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'http://arxiv.org/abs/2411.16134'
 url_code: 'https://github.com/YUJ0E/MARVEL'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
