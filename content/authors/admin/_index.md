@@ -33,6 +33,8 @@ profiles:
     url: https://github.com/YUJ0E
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zhuoyuan-yu-135245291/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=z8m9AYEAAAAJ&hl=en
 
 
 interests:
