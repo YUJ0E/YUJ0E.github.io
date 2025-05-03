@@ -8,7 +8,7 @@ authors:
   - admin
   - Hongliang Guo
 
-date: '2024-11-23T00:00:00Z'
+date: '2025-04-T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: Under Review.
+summary: IEEE Robotics and Automation Letters.
 
 tags:
   - Multi-Agent System
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://arxiv.org/abs/2411.16134'
+url_pdf: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/10948339'
 url_code: 'https://github.com/YUJ0E/MARVEL'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
