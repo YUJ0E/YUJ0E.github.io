@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/10948339'
+url_pdf: 'https://ieeexplore.ieee.org/document/10948339'
 url_code: 'https://github.com/YUJ0E/MARVEL'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
